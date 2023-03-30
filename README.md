@@ -1,10 +1,12 @@
-# reqresapp
+# Contact Application
 
-reqres.in api integration with flutter app
+Contact Application using reqres.in api integration with flutter app
 
-## Getting Started
+[Reqres API Documentation](https://reqres.in/api-docs/#/)
 
-This project is a starting point for a Flutter application.
+## Guides
+
+This project is a flutter sample application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -13,4 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
+flutter pub run build_runner watch --delete-conflicting-outputs
 samples, guidance on mobile development, and a full API reference.
